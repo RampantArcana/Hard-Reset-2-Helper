@@ -32,8 +32,8 @@ Chapter 1.95: Oh.  You're Looping, Twilight
 
 - Twilight wakes up and says the phrase to Celestia with the safe word.  Celestia gathers information on Twilights loops.  Celestia dies.
 - Celestia spends an unknown number of iterations playing games with Chrysalis.  Chrysalis gains absolute confirmation Celestia is looping.  They test the waters with each other, but Celestia is unable to fend off the changeling swarm without unacceptable losses.  
-..-Stop her before Twilight loops? Lost the assets needed to fend off the invasion.  
-..-Fight off the invasion? Chrysalis is in place for sabotaging from within.
+    - Stop her before Twilight loops? Lost the assets needed to fend off the invasion.  
+    - Fight off the invasion? Chrysalis is in place for sabotaging from within.
 - Twilight either does not perform the loop spell or does not die in all these iterations.  Celestia realizes they need to work together to win.
 
 Chapter 1.99
