@@ -26,3 +26,4 @@ Extra Commentary
 
 - UNKNOWN is likely a non-equine (Discord?  I think he's still stone in Hard Reset) as Luna would reset to Nightmare Moon banishment and Celestia thinks Shining Armor against Chrysalis is a bad idea.
 - Chrysalis remains unaware that Twilight has entered the loop. (Twilight managed to knock out Chrysalis before she could reset.  Knowledge lost since Twilight reset first)
+- It's probably possible to move the spawn point. Celestia claims that she first cast the spell once she banished Luna, so it can either be cast multiple times nesting in each other, the spell can be ended and then cast again later, or you can shift the spawn point to a present that you're happy with, presumably with another spell.
