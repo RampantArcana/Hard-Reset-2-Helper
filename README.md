@@ -3,6 +3,17 @@ Hard-Reset-2-Helper
 
 This repository is for fans looking to delve into the timey-wimey mystery of horizon's _Hard Reset 2: Reset Harder_ hosted on Fimfiction.net
 
+Repository Table of Contents
+----------------------------
+
+- [Guides](https://github.com/RampantArcana/Hard-Reset-2-Helper/tree/master/Guides)
+    - [Guides Readme](https://github.com/RampantArcana/Hard-Reset-2-Helper/blob/master/Guides/Guides%20README.md) - In progress
+    - [The Rules and Players](https://github.com/RampantArcana/Hard-Reset-2-Helper/blob/master/Guides/The%20Rules%20and%20Players.md)
+    - [Chapters 0 - 1](https://github.com/RampantArcana/Hard-Reset-2-Helper/blob/master/Guides/Chapters%200%20-%201.md)
+    - [Chapter 2](https://github.com/RampantArcana/Hard-Reset-2-Helper/blob/master/Guides/Chapter%202.md)
+    - [Chapter 3](https://github.com/RampantArcana/Hard-Reset-2-Helper/blob/master/Guides/Chapter%203.md) - In progress
+- [Theories](https://github.com/RampantArcana/Hard-Reset-2-Helper/tree/master/Theories) - Open for suggestions
+
 Why am I here?
 --------------
 
