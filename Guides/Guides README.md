@@ -34,12 +34,12 @@ If you want to reference a specific line from the story, use Calibre (an ebook r
 
 ### The Death Counter
 
-Currently, Horizon has presented us with a death counter that tracks where Celestia and Twilight are relative to each other's knowledge.  This is also extremely useful for matching loops to sections in the Guides.  Currently used formats are
-- C-###, T-###
+Currently, Horizon has presented us with a death counter that tracks where Celestia and Twilight are relative to each other's knowledge.  This is also extremely useful for matching loops to sections in the Guides.  Currently used formats are (do not include brackets)
+- C-[XXX], T-[YYY]
     - This is the format Horizon uses within the Fic.  It takes up extra space but looks nicer overall.  Plus, the comma works nicely in dialogue, introducing a pause the reader _knows_ should be there.
-- C###-T###
+- C[XXX]-T[YYY]
     - This is the format I (RampantArcana) started with.  It saves keystrokes and looks more like a scoreboard.
 
 We may develop a method for tracking resets of the counter.  Possible notations include
-- R#, C-###, T-###
-- R#-C###-T###
+- R[X], C-[YYY], T-[ZZZ]
+- R[X]-C[YYY]-T[ZZZ]
