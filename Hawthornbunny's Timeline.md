@@ -8,11 +8,9 @@ Hawthornbunny has been working on this timeline in parallel with this project an
 
 ## Legend
 
-```
 - C - Confirmed. This event is known to have occurred, and was witnessed and remembered by Twilight. It was either shown in the story, or is recounted to us from Twilight's memory.
 - I - Inferred. This event was not shown in the story, and Twilight doesn't remember it, but we can infer that it happened based on how we know Twilight begins the loop, and what other timeloopers said. The inference may not be correct and could change as we gain more information.
 - S - Personal speculation.
-```
 
 ## The Timeline
 
@@ -56,10 +54,15 @@ Hawthornbunny has been working on this timeline in parallel with this project an
 - I: Twilight asks two questions. We don't know what these questions are, because we only hear Twilight ask them in a later loop (and Celestia gives the answers before Twilight can finish the questions, having already heard Twilight ask them previously). However, we can infer that the conversation went as follows:
 
 > Twilight: "You're in a time loop too?!"
+> 
 > Celestia: "Yes."
+> 
 > Twilight: "Did I somehow bring you into my time loop?"
+> 
 > Celestia: "No, this is my own loop, independent from yours."
+> 
 > Twilight: "When did your loop start?"
+> 
 > Celestia: "My reset point was first thing this morning, though I cast the original spell right after I was forced to banish Luna.  I promised myself I wouldn't ever let those I loved go through such pain again."
 
 - I: Twilight immediately realises that Celestia has, by inaction, deliberately kept her in the time loop, and may in fact have done so many times already. After everything she's been through, she is devastated and furious with Celestia for allowing her to face such torture.
