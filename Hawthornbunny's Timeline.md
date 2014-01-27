@@ -2,7 +2,7 @@
 
 ## Notes from RampantArcana
 
-This timeline is used with permission from Fimfiction user Hawthornbunny.  The most up to date version of this timeline can be found at _link pending._
+This timeline is used with permission from Fimfiction user Hawthornbunny.  The most up to date version of this timeline can be found at the [Time Loop Forum Post.](http://www.fimfiction.net/group/199133/the-time-loop-trilogy/thread/82241/hard-reset-2-timeline)
 
 Hawthornbunny has been working on this timeline in parallel with this project and will be posting it on Fimfiction in the Time Loop forums.  It's a magnificent piece of work already so breaking it apart to merge into the guides would do it a disservice.  Several people have suggested that a full timeline be added next to the Guides.  This will do quite nicely.  This timeline has been reformatted for markdown.
 
