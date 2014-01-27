@@ -143,6 +143,7 @@ Hawthornbunny has been working on this timeline in parallel with this project an
 ![Confirmed alt text][pic_Confirmed] Chrysalis battles Celestia as Twilight watches in horror.
 
 ![Speculation alt text][pic_Speculation] Presumably, Celestia has had this battle a few times already, but hasn't yet figured out how to do it without blowing up the library and getting herself injured. From the looks of the battle, both Celestia and Chrysalis are looping to figure out how to counter each other's attacks, as they make several improbable but effective moves. We know that Chrysalis spends about fifty loops attacking the library.
+
 ![Confirmed alt text][pic_Confirmed] Chrysalis disables Celestia by shooting her in the neck.
 
 ![Confirmed alt text][pic_Confirmed] Chrysalis prepares to kill Twilight. Twilight is prepared to die because she knows it will reset the loop and give her a chance to stop Chrysalis next time. Unfortunately, this suspicious acceptance of death causes Chrysalis to realise that Twilight is also a timelooper. Before Chrysalis can do anything, however, Twilight hits her with Home Run, knocking her unconscious.
