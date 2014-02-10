@@ -5,6 +5,7 @@ This repository is for fans looking to delve into the timey-wimey mystery of hor
 ## Repository Table of Contents
 
 - [Collaboration Readme](https://github.com/RampantArcana/Hard-Reset-2-Helper/tree/master/Collaboration%20Readme.md)
+- [Hawthornbunny's Probably Definitive Timeline](http://www.fimfiction.net/group/199133/the-time-loop-trilogy/thread/87711/hard-reset-2-timeline)
 - [Guides](https://github.com/RampantArcana/Hard-Reset-2-Helper/tree/master/Guides)
     - [Guides Readme](https://github.com/RampantArcana/Hard-Reset-2-Helper/blob/master/Guides/Guides%20README.md)
     - [The Rules and Players](https://github.com/RampantArcana/Hard-Reset-2-Helper/blob/master/Guides/The%20Rules%20and%20Players.md)
