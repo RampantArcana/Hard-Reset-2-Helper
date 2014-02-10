@@ -62,12 +62,14 @@ Hawthornbunny has been working on this timeline in parallel with this project an
 - I: Twilight is surprised to see her and a little shocked from the last loop she remembers, in which Celestia broke her neck. However, remembering that Celestia told her to say the phrase with the safeword, she does so. Celestia isn't quick enough to stop her, and Twilight is paralysed again. Celestia is forced to give up on this loop and reset.
 - I: Celestia respawns, and once more, waits out the morning, then goes to see Twilight in the library when Twilight's loop starts. This time, she is quick enough to stop Twilight from saying the phrase.
 - S: Twilight asks two questions. We don't know what these questions are, because we only hear Twilight ask them in a later loop (and Celestia gives the answers before Twilight can finish the questions, having already heard Twilight ask them previously). However, we can infer that the conversation went as follows:
->> Twilight: "You're in a time loop too?!"
->> Celestia: "Yes."
->> Twilight: "Did I somehow bring you into my time loop?"
->> Celestia: "No, this is my own loop, independent from yours."
->> Twilight: "When did your loop start?"
->> Celestia: "My reset point was first thing this morning, though I cast the original spell right after I was forced to banish Luna.  I promised myself I wouldn't ever let those I loved go through such pain again."
+
+> Twilight: "You're in a time loop too?!"  
+> Celestia: "Yes."  
+> Twilight: "Did I somehow bring you into my time loop?"  
+> Celestia: "No, this is my own loop, independent from yours."  
+> Twilight: "When did your loop start?"  
+> Celestia: "My reset point was first thing this morning, though I cast the original spell right after I was forced to banish Luna.  I promised myself I wouldn't ever let those I loved go through such pain again."  
+
 - I: Twilight realises that Celestia has, by inaction, deliberately kept her in the time loop, and may in fact have done so many times already. After everything she's been through, she is devastated and furious with Celestia for allowing her to face such torture.
 - I: Celestia is upset, but understands Twilight's anger and allows her to calm down. She tells Twilight about Chrysalis's timelooping ability, and explains that she needs Twilight to break the stalemate.
 - I: Twilight asks for some time to consider this. Since they're in a timeloop, Celestia has no problem with Twilight taking all the time she needs. To make things easier, she gives Twilight a suicide spell - Euthanatos - which allows a caster to kill themselves quickly and painlessly.
